@@ -1,0 +1,45 @@
+Body{
+Font:15px/1.5 Arial, Helvetica,sans-serif;
+Padding: 0px;
+Background-color:#f4f3f3;
+}
+.container{
+Width:100%;
+Margin: auto;
+Overflow: hidden;
+}
+Header{
+Background:#03A9F4;#35434a;
+Border-bottom:#448AFF 3px solid;
+Height:120px;
+Width:100%;
+Padding-top:30px;
+}
+.main-header{
+Text-align:center;
+Background-color: blue;
+Height:100px;
+Width:100%;
+Margin:0px;
+}
+#brandname{
+Float:left;
+Font-size:30px;
+Color: #fff;
+Margin: 10px;
+}
+Header h2{
+Text-align:center;
+Color:#fff;
+}
+.btn-info {background-color: #2196F3;
+Height:40px;
+Width:100px;} /* Blue */
+.btn-info:hover {background: #0b7dda;}
+.resultss{
+Border-radius: 15px 50px;
+Background: #345fe4;
+Padding: 20px; 
+Width: 200px;
+Height: 150px;
+}
